@@ -24,7 +24,7 @@ Imágenes del prototipo.
 
 Autoría
 
-Sandra Carvajal
+Sandra Carvajal y
 Ximena Ballesteros
 Proyecto académico | Formación en diseño UX/UI
 
