@@ -18,6 +18,9 @@ Imágenes del prototipo.
 <img width="266" height="583" alt="image" src="https://github.com/user-attachments/assets/0334027d-58f9-4d5b-8c7a-5089dae5c92c" />
 <img width="266" height="581" alt="image" src="https://github.com/user-attachments/assets/7bcebc99-fdf4-4b71-aa33-0eb241a2b8ea" />
 <img width="267" height="582" alt="image" src="https://github.com/user-attachments/assets/7bd0691e-1e36-42fb-a2df-06f465b07507" />
+<img width="266" height="582" alt="image" src="https://github.com/user-attachments/assets/0b75aa2a-97ec-46f2-991c-c23559caf3bd" />
+<img width="268" height="579" alt="image" src="https://github.com/user-attachments/assets/9fbff125-801f-469e-893d-41218772db81" />
+
 
 Autoría
 
